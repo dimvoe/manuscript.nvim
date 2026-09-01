@@ -38,6 +38,18 @@ You can also set the colorscheme at any time with:
 
 Install [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) and enable highlighting to get the full experience.
 
+## Extras
+### Kitty terminal
+
+Copy the colors from extras/kitty/kitty.conf to your Kitty config (~/.config/kitty/kitty.conf) to match your terminal with the Manuscript palette.
+### Waybar
+
+Use extras/waybar/style.css as a base for your Waybar style. Place it in ~/.config/waybar/style.css or integrate the relevant CSS blocks into your own config.
+### Hyprland
+
+A ready-to-use snippet is available in extras/hypr/theme-snippet.lua.
+Copy its contents into your Hyprland Lua config to apply the Manuscript colors, borders, blur, and transparency.
+
 ## Credits
 
 Inspired by:

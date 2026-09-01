@@ -4,6 +4,8 @@
 A calm, dark Neovim colorscheme with warm paper-like accents.  
 It uses a cool slate background (#20262a) and soft ivory text (#f2ecce), inspired by Kanagawa and GitHub Dark Dimmed.
 
+![Manuscript theme](2026-09-01-182636_hyprshot.png)
+
 ## What you need
 
 - Neovim 0.10 or newer

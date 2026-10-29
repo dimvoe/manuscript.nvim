@@ -1,0 +1,67 @@
+#? Manuscript theme for btop
+#? Drop in ~/.config/btop/themes/manuscript.theme
+#? Activate: btop -> Esc -> Options -> Color theme -> manuscript
+
+# ---- base ----
+theme[main_bg]="#20262a"
+theme[main_fg]="#f2ecce"
+theme[title]="#2188ff"
+theme[hi_fg]="#f88404"
+theme[selected_bg]="#2188ff"
+theme[selected_fg]="#1f2428"
+theme[inactive_fg]="#959da5"
+theme[proc_misc]="#39c5cf"
+
+# ---- box borders ----
+# matched to waybar module colors:
+#   cpu       #34d058
+#   memory    #39c5cf
+#   pulseaudio #2188ff  (used here for net, no waybar counterpart)
+#   workspaces/window #ea4a5a
+theme[cpu_box]="#34d058"
+theme[mem_box]="#39c5cf"
+theme[net_box]="#2188ff"
+theme[proc_box]="#ea4a5a"
+theme[div_line]="#586069"
+
+# ---- temperature ----
+# waybar: #temperature is #e5c07b (not from the rainbow gradient)
+theme[temp_start]="#2188ff"
+theme[temp_mid]="#e5c07b"
+theme[temp_end]="#ea4a5a"
+
+# ---- CPU load gradient (cold -> hot) ----
+theme[cpu_start]="#2188ff"
+theme[cpu_mid]="#ffea7f"
+theme[cpu_end]="#ea4a5a"
+
+# ---- memory gradients ----
+theme[free_start]="#2188ff"
+theme[free_mid]="#39c5cf"
+theme[free_end]="#34d058"
+
+theme[cached_start]="#aa7ed3"
+theme[cached_mid]="#39c5cf"
+theme[cached_end]="#34d058"
+
+theme[available_start]="#aa7ed3"
+theme[available_mid]="#2188ff"
+theme[available_end]="#39c5cf"
+
+theme[used_start]="#34d058"
+theme[used_mid]="#ffea7f"
+theme[used_end]="#ea4a5a"
+
+# ---- network ----
+theme[download_start]="#2188ff"
+theme[download_mid]="#39c5cf"
+theme[download_end]="#34d058"
+
+theme[upload_start]="#aa7ed3"
+theme[upload_mid]="#f88404"
+theme[upload_end]="#ea4a5a"
+
+# ---- process bars ----
+theme[process_start]="#34d058"
+theme[process_mid]="#ffea7f"
+theme[process_end]="#ea4a5a"

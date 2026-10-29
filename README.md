@@ -9,8 +9,6 @@ It uses a cool slate background (#20262a) and soft ivory text (#f2ecce), inspire
 ![Manuscript theme](2026-10-29-183952_hyprshot.png)
 
 ![Manuscript theme](2026-10-29-184925_hyprshot.png)
----
-![Manuscript theme](2026-10-29-184003_hyprshot.png)
 
 ## What you need
 

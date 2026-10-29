@@ -5,6 +5,12 @@ A calm, dark Neovim colorscheme with warm paper-like accents.
 It uses a cool slate background (#20262a) and soft ivory text (#f2ecce), inspired by Kanagawa and GitHub Dark Dimmed.
 
 ![Manuscript theme](2026-09-01-182636_hyprshot.png)
+---
+![Manuscript theme](2026-10-29-183952_hyprshot.png)
+
+![Manuscript theme](2026-10-29-184925_hyprshot.png)
+---
+![Manuscript theme](2026-10-29-184003_hyprshot.png)
 
 ## What you need
 
